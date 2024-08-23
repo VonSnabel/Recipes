@@ -2,14 +2,14 @@
 
 ## Ingrediences
 3 Bananas \
-2 tbs Lemon Juice\
+2 teaspoons Lemon Juice\
 7 dl Flour\
-1.5 tbs Baking Soda\
+1.5 teaspoon Baking Soda\
 1 Dash Salt\
 4.5 dl Sugar\
 150g Butter\
 3 Eggs\
-2 tbs Vanilla Extract\
+2 teaspoons Vanilla Extract\
 3.5 dl Milk (Or milk, cream and a dash of acidity)
 
 
