@@ -10,7 +10,7 @@
 150g Butter\
 3 Eggs\
 2 tbs Vanilla Extract\
-3.5 dl Milk (Or milk, cream and a dash of acidity)\
+3.5 dl Milk (Or milk, cream and a dash of acidity)
 
 
 ## Instructions
@@ -18,13 +18,13 @@
 Preheat to 115 Degree
 ### Prepp
 Mix Banana and Lemon Juice\
-Mix Flour, Baking Soda, and salt\
+Mix Flour, Baking Soda, and salt
 ### Main Bowl
 Cream Sugar and Butter until fluffy\
 Beat in Eggs, one at the time\
 Add Vanila\
 Beat in Flour and Milk\
-Pour in Pan\
+Pour in Pan
 ### Bake
 Bake in oven for 1h, or until done.
 ### Post-Bake
