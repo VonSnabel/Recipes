@@ -1,4 +1,4 @@
-### Banana Cake
+# Banana Cake
 
 ## Ingrediences
 3 Bananas
@@ -14,18 +14,18 @@
 
 
 ## Instructions
-# Oven 
+### Oven 
 Preheat to 115 Degree
-# Prepp
+### Prepp
 Mix Banana and Lemon Juice
 Mix Flour, Baking Soda, and salt
-# Main Bowl
+### Main Bowl
 Cream Sugar and Butter until fluffy
 Beat in Eggs, one at the time
 Add Vanila
 Beat in Flour and Milk
 Pour in Pan
-# Bake
+### Bake
 Bake in oven for 1h, or until done.
-# Post-Bake
+### Post-Bake
 Place in Freezer instantly. (Questionable) Should make it more moist.
