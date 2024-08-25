@@ -1,6 +1,6 @@
 # Banana Cake
 
-## Ingrediences
+## Ingredients 
 3 Bananas \
 2 teaspoons Lemon Juice\
 7 dl Flour\
