@@ -14,7 +14,6 @@ Cumin 0.5 tsp\
 Turmeric 0.25 tsp\
 Cardemom 0.25 tsp\
 Ground Cloves 0.25 tsp\
-<kryddnejlika>
 Cinnamon 0.25 tsp\
 Salt 0.25 tsp
 
