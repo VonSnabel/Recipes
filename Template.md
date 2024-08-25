@@ -3,7 +3,9 @@
 ## Ingredients 
 
 ## Instructions
-<One ingredient per row. SI units. 0.5 format>
+<one ingredient per row> 
+<SI units. 0.5 format>
+
 
 ### Prepp
 
