@@ -1,21 +1,21 @@
 # Mango Chutney
 
 ## Ingredients
-Suger 1.5 dl\
-White Vinegar 0.5 dl\
-Onion 0.5\
-Ginger 2 tsp\
-Chili Flakes 0.5 tsp\ 
-Garlic 1 clove\
-Chili 1\
-Nigella Seeds 1 tsp\
-Coriander 1 tsp\
-Cumin 0.5 tsp\
-Turmeric 0.25 tsp\
-Cardemom 0.25 tsp\
-Ground Cloves 0.25 tsp\
-Cinnamon 0.25 tsp\
-Salt 0.25 tsp
+* Suger 1.5 dl\
+* White Vinegar 0.5 dl\
+* Onion 0.5\
+* Ginger 2 tsp\
+* Chili Flakes 0.5 tsp\
+* Garlic 1 clove\
+* Chili 1\
+* igella Seeds 1 tsp\
+* Coriander 1 tsp\
+* Cumin 0.5 tsp\
+* Turmeric 0.25 tsp\
+* Cardemom 0.25 tsp\
+* Ground Cloves 0.25 tsp\
+* Cinnamon 0.25 tsp\
+* Salt 0.25 tsp
 
 ## Instructions
 ### Prepp
