@@ -8,7 +8,7 @@
 * Chili Flakes 0.5 tsp
 * Garlic 1 clove
 * Chili 1
-* igella Seeds 1 tsp
+* Nigella Seeds 1 tsp
 * Coriander 1 tsp
 * Cumin 0.5 tsp
 * Turmeric 0.25 tsp
@@ -19,15 +19,14 @@
 
 ## Instructions
 ### Prepp
-Peel, mince Onion, Garlic, and Ginger\
-Peel and cut Mango into chunks
+1. Peel, mince Onion, Garlic, and Ginger
+1. Peel and cut Mango into chunks
 ### Cooking
-Saute ginger, garlic, chili for a minute\
-Add Spices and saute for another minute\
-Add Mango, Sugar, Salt, and Vinager. Stir\
-Bring to rapid boil and reduce to steady simmer for 1 hour\
-Remove from heat and cool.
-
+1. Saute ginger, garlic, chili for a minute
+1. Add Spices and saute for another minute
+1. Add Mango, Sugar, Salt, and Vinager. Stir
+1. Bring to rapid boil and reduce to steady simmer for 1 hour
+1. Remove from heat and cool
  
 ## Storage
 Some alternatives when it comes to storage:\ 
