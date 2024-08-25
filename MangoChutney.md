@@ -33,6 +33,6 @@ Remove from heat and cool.
 Some alternatives when it comes to storage:\ 
 1. In sealed jar in fridge. Will last about 2 months. 
 1. In sealed jar in freezer. Will last about 6 months. 
-1. Pour in steralised jars while warm and let cool.
-	-Leave undisturbed for 24 hours. 
-	-Store in dark, cool palce. Can last a year.
+1. Pour in steralised jars while warm and let cool.  
+  1.Leave undisturbed for 24 hours. 
+  2.Store in dark, cool palce. Can last a year.
