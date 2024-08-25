@@ -10,7 +10,7 @@ Garlic 1 clove\
 Chili 1\
 Nigella Seeds 1 tsp\
 Coriander 1 tsp\
-Cumin 0.5 tsp\ 
+Cumin 0.5 tsp\
 Turmeric 0.25 tsp\
 Cardemom 0.25 tsp\
 Ground Cloves 0.25 tsp\
