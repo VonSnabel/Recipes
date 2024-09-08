@@ -1,6 +1,7 @@
 # Mango Chutney
 
 ## Ingredients
+* Mango 800g
 * Suger 1.5 dl
 * White Vinegar 0.5 dl
 * Onion 0.5
@@ -35,3 +36,5 @@ Some alternatives when it comes to storage:\
 * Pour in steralised jars while warm and let cool.  
   - Leave undisturbed for 24 hours.
   - Store in dark, cool palce. Can last a year.
+
+
