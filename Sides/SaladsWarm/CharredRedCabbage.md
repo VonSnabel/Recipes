@@ -1,15 +1,15 @@
 # Title 
 
 ## Time Estimate
-* Prep
-* Cook
-* Total
+* Prepp 15m
+* Cook 20m
+* Total 35m
 ## Ingredients 
 <one ingredient per row> 
 <SI units. 0.5 format>
-* *Something*
+
 ## Instructions
-1. *Step one*
+
 
 ### Prepp
 
