@@ -8,7 +8,7 @@
 <one ingredient per row> 
 <SI units. 0.5 format>
 ### Meat
-* 4 Chicken Breasts
+  * 4 Chicken Breasts
 ### Spices
 * 1.5 tsp Chili Powder
 * 1.5 tsp (Smoked) Paprika
