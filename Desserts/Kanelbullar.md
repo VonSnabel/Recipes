@@ -36,5 +36,5 @@
 1. 10 min 250C med vattenbad
 
 # Resultat
-1. Behöver bakas på plåt, inte i glasform
-1. Vattenbad bör utvärderas 
+1. Vattenbad bör utvärderas. Utan Vattenbad brände de i botten. Dock lite torra allmänt
+3. Kanske mer smör i degen
